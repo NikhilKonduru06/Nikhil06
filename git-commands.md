@@ -33,3 +33,8 @@
        What it does:Shows commit history
        Example:
        git log
+
+### git diff
+       What it does:Shows changes between commits
+       Example:
+       git diff
